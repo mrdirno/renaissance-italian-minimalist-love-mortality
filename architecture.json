@@ -1,0 +1,77 @@
+{
+  "book_id": "renaissance-italian-minimalist-love-mortality",
+  "title": "The Shape Inside the Stone",
+  "tagline": "A sculptor chisels a monument for a dead woman and awakens a love that forces him to confront the impermanence of art, flesh, and memory.",
+  "target_words": 72326,
+  "actual_words": 72326,
+  "status": "SEED",
+  "license": "CC0",
+  "themes": [
+    "Artistic Creation vs. Commission",
+    "The Impermanence of Flesh and Stone",
+    "Love as a Form of Seeing",
+    "The Silence of Mortality"
+  ],
+  "chapters": [
+    {
+      "ch": 1,
+      "title": "The Blindness of Marble",
+      "words": 6027
+    },
+    {
+      "ch": 2,
+      "title": "The Prison of Stone",
+      "words": 6027
+    },
+    {
+      "ch": 3,
+      "title": "A Second Skin of Dust",
+      "words": 6027
+    },
+    {
+      "ch": 4,
+      "title": "A Question Hung Between",
+      "words": 6027
+    },
+    {
+      "ch": 5,
+      "title": "The Innocence of Metal",
+      "words": 6027
+    },
+    {
+      "ch": 6,
+      "title": "A Column of Silent Gold",
+      "words": 6027
+    },
+    {
+      "ch": 7,
+      "title": "The Weight of a Purse",
+      "words": 6027
+    },
+    {
+      "ch": 8,
+      "title": "The Waking Work",
+      "words": 6027
+    },
+    {
+      "ch": 9,
+      "title": "A Bruise-Coloured Dawn",
+      "words": 6027
+    },
+    {
+      "ch": 10,
+      "title": "The Hollow Silence",
+      "words": 6027
+    },
+    {
+      "ch": 11,
+      "title": "The Humble Mound",
+      "words": 6027
+    },
+    {
+      "ch": 12,
+      "title": "Warm and Alive",
+      "words": 6027
+    }
+  ]
+}
